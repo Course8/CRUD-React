@@ -1,0 +1,42 @@
+footer{
+    font-size: 25px;
+    font-weight: bold;
+    background-color: #1c1f27;
+    color: #4371c7;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.img{
+    height: 50px;
+}
+
+.img img{
+    height: 40px;
+    width: 40px;
+    margin-right: 1rem;
+}
+
+.img img:hover{
+    height: 50px;
+    width: 50px;
+    margin-right: 1rem;
+
+}
+
+.dir{
+    text-align: center;
+    font-size:20px;
+    
+}
+
+.texto p{
+    text-align:center;
+}
+
+.texto p a{
+    color:  #0c0c0c;
+}
+
+.texto p a:hover{
+    color: #0f0f0f;
+}
