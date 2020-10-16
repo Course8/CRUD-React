@@ -12,11 +12,11 @@ class Login extends Component {
 //             .then( (data) => { this.setState( {data: data} ) } )
 //     }
 
-//     render(){
-//         return(
-//             <div className="textos mt-4">Nome de usuário: {this.state.data.login}</div>
-//         )
-//     }
-// }
+    render(){
+        return(
+            <div className="textos mt-4">Nome de usuário: </div>
+        )
+    }
+}
 
 export default Login;
