@@ -23,8 +23,8 @@ class Footer extends Component {
                             </div>
                         </div>
 
-                        <div className="col texto">
-                            <p className="ml-4">Endereço: <br></br><a href="">Rua Severo da Silva</a></p>
+                        <div className="col texto mb-4">
+                            <p className="ml-4">Endereço: <br></br><a href="">Rua Severo da Silva, RS Brasil</a></p>
                         </div>
 
                         <div className="col texto">
